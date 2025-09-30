@@ -1,7 +1,5 @@
 # odin-recipes
 
-This is The Odin Project's first project in the Foundations course.
+This is The Odin Project's first project in the Foundations course. It is an initial draft of a recipe website, with the barest of HTML bones.
 
-It is a recipe website.
-
-[Add what skills I have learned from this project]
+I look forward to making it look much better after learning more.
